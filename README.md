@@ -1,1 +1,1 @@
-# info
+I have bought a WAGroups Pro CMS - Share Invite Links of WhatsApp which is install on https://Whatslink.in and now I want to use this script for my two Domains https://acharesult.com and https://whatsgroupi.com can I use this because some people asked that this script is for one site, then I need to extend license for multiple sites ?
